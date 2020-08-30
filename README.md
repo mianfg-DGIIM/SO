@@ -1,5 +1,7 @@
 [⬅ Más asignaturas del DGIIM](https://github.com/mianfg/DGIIM)
 
+![Repo image](https://repository-images.githubusercontent.com/261726269/0545e380-eae8-11ea-8a83-2a2452e00e03)
+
 # `SO` Sistemas Operativos
 
 | Nombre                | Sistemas Operativos                                          |
